@@ -1,0 +1,12 @@
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\bin\Debug\SayingMaker.dll
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\bin\Debug\SayingMaker.pdb
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\obj\Debug\SayingMaker.csproj.AssemblyReference.cache
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\obj\Debug\SayingMaker.csproj.CoreCompileInputs.cache
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\obj\Debug\SayingMaker.dll
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\obj\Debug\SayingMaker.pdb
+C:\Users\齐博文\软件开发\C#\nuget\SuperFreeApi\SayingMaker\bin\Debug\SayingMaker.dll
+C:\Users\齐博文\软件开发\C#\nuget\SuperFreeApi\SayingMaker\bin\Debug\SayingMaker.pdb
+C:\Users\齐博文\软件开发\C#\nuget\SuperFreeApi\SayingMaker\obj\Debug\SayingMaker.csproj.AssemblyReference.cache
+C:\Users\齐博文\软件开发\C#\nuget\SuperFreeApi\SayingMaker\obj\Debug\SayingMaker.csproj.CoreCompileInputs.cache
+C:\Users\齐博文\软件开发\C#\nuget\SuperFreeApi\SayingMaker\obj\Debug\SayingMaker.dll
+C:\Users\齐博文\软件开发\C#\nuget\SuperFreeApi\SayingMaker\obj\Debug\SayingMaker.pdb

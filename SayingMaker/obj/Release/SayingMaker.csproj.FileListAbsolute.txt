@@ -1,0 +1,6 @@
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\bin\Release\SayingMaker.dll
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\bin\Release\SayingMaker.pdb
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\obj\Release\SayingMaker.csproj.AssemblyReference.cache
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\obj\Release\SayingMaker.csproj.CoreCompileInputs.cache
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\obj\Release\SayingMaker.dll
+D:\齐博文\C#\nuget\SayingMaker\SayingMaker\obj\Release\SayingMaker.pdb

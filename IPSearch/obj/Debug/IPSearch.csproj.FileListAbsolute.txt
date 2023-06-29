@@ -1,0 +1,11 @@
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\IPSearch\bin\Debug\IPSearch.dll
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\IPSearch\bin\Debug\IPSearch.pdb
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\IPSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\IPSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\IPSearch\obj\Debug\IPSearch.csproj.AssemblyReference.cache
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\IPSearch\obj\Debug\IPSearch.Properties.Resources.resources
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\IPSearch\obj\Debug\IPSearch.csproj.GenerateResource.cache
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\IPSearch\obj\Debug\IPSearch.csproj.CoreCompileInputs.cache
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\IPSearch\obj\Debug\IPSearch.csproj.CopyComplete
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\IPSearch\obj\Debug\IPSearch.dll
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\IPSearch\obj\Debug\IPSearch.pdb
