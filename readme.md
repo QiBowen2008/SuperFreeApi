@@ -23,7 +23,7 @@
 	}
 ## 效果 ##
 
-![](https://raw.github.com/QiBowen2008/SayingMaker/master/sayingmaker.PNG)
+![](https://raw.github.com/QiBowen2008/SuperFreeApi/main/SayingMaker/1.jpg))
 
 # IPSearch——使你的应用程序拥有IP查询功能
 功能：查询IP地址的位置，ans编号，服务器经纬度，运营公司。
