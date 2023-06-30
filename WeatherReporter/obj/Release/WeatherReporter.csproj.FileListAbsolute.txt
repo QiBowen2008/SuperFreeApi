@@ -1,0 +1,9 @@
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\WeatherReporter\bin\Release\WeatherReporter.dll
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\WeatherReporter\bin\Release\WeatherReporter.pdb
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\WeatherReporter\bin\Release\Newtonsoft.Json.dll
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\WeatherReporter\bin\Release\Newtonsoft.Json.xml
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\WeatherReporter\obj\Release\WeatherReporter.csproj.AssemblyReference.cache
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\WeatherReporter\obj\Release\WeatherReporter.csproj.CoreCompileInputs.cache
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\WeatherReporter\obj\Release\WeatherReporter.csproj.CopyComplete
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\WeatherReporter\obj\Release\WeatherReporter.dll
+C:\Users\Public\齐博文\软件开发\C#\nuget\SuperFreeApi\WeatherReporter\obj\Release\WeatherReporter.pdb
