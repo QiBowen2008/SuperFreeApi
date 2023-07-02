@@ -1,6 +1,3 @@
-nuget地址：https://www.nuget.org/profiles/Qibowen2008
-这些nuget包均是基于从网络上收集的免费api打包的，零基础小白可以直接调用，有一些服务可能不稳定
-
 # Saying Maker——为你的应用程序添加随机名言 #
 ## 使用示范 ##
 
@@ -117,5 +114,108 @@ VB.NET代码
         	textBox6.Text = WeatherReporter.GetWindPower(city)
         	textBox7.Text = WeatherReporter.GetHumidity(city)
         	textBox8.Text = WeatherReporter.GetReporttime(city)
+    	End Sub
+	End Class
+
+# XinHuaDictionary——给你的程序内嵌在线字典 #
+## 使用示范 ##
+
+C#代码
+
+	using System;
+	using SuperFreeApi.XinHuaDictionary;
+	using System.Windows.Forms;
+
+	namespace DLLtest
+	{
+	    public partial class Form1 : Form
+	    {
+	        public Form1()
+	        {
+	            InitializeComponent();
+	        }
+	
+	        private void button1_Click(object sender, EventArgs e)
+	        {
+	            string character = textBox1.Text;
+	            textBox2.Text = Dictionary.GetCharacterbs (character);
+	            textBox3.Text = Dictionary.GetCharacteryj (character);
+	            textBox4.Text = Dictionary.GetCharacterbsbh (character);
+	            textBox5.Text = Dictionary.GetCharacterbwbh (character);
+	            textBox6.Text = Dictionary.GetCharacterzsbh  (character);
+	            textBox7.Text = Dictionary.GetCharacterbsxf (character);
+	        }
+	    }
+	}
+
+VB.NET代码
+
+    Imports SuperFreeApi.XinHuaDictionary
+
+	Public Class Form1
+    	Private Sub button1_Click(sender As Object, e As EventArgs) Handles button1.Click
+    	    Dim character As String = textBox1.Text
+    	    textBox2.Text = Dictionary.GetCharacterbs(character)
+    	    textBox3.Text = Dictionary.GetCharacteryj(character)
+    	    textBox4.Text = Dictionary.GetCharacterbsbh(character)
+    	    textBox5.Text = Dictionary.GetCharacterbwbh(character)
+    	    textBox6.Text = Dictionary.GetCharacterzsbh(character)
+    	    textBox7.Text = Dictionary.GetCharacterbsxf(character)
+    	End Sub
+	End Class
+
+效果
+
+![](https://raw.github.com/QiBowen2008/SuperFreeApi/main/XinHuaDictionary/1.PNG)
+
+# CyDictionary——成语词典模块 #
+
+功能：查询成语解释，用法，辨析（仅限部分），造句，出处
+
+## 使用示范 ##
+
+界面：
+
+![](https://raw.github.com/QiBowen2008/SuperFreeApi/main/Cydictionary/1.PNG)
+
+C#代码
+
+    using System;
+	using SuperFreeApi.CyDictionary;
+	using System.Windows.Forms;
+
+	namespace DLLtest
+	{
+    	public partial class Form1 : Form
+    	{
+    	    public Form1()
+    	    {
+    	        InitializeComponent();
+    	    }
+	
+    	    private void button1_Click(object sender, EventArgs e)
+    	    {
+    	        string Cy = textBox1.Text;
+    	        textBox2.Text = Dictionary.Getcyjs(Cy);
+    	        textBox3.Text = Dictionary.Getcyzj(Cy);
+    	        textBox4.Text = Dictionary.Getcycc(Cy);
+    	        textBox5.Text = Dictionary.Getcybx(Cy);
+    	        textBox6.Text = Dictionary.Getcysy(Cy);
+    	    }
+    	}
+	}
+
+VB.NET代码
+
+    Imports SuperFreeApi.CyDictionary
+
+	Public Class Form1
+    	Private Sub button1_Click(sender As Object, e As EventArgs) Handles button1.Click
+    	    Dim Cy As String = textBox1.Text
+    	    textBox2.Text = Dictionary.Getcyjs(Cy)
+    	    textBox3.Text = Dictionary.Getcyzj(Cy)
+    	    textBox4.Text = Dictionary.Getcycc(Cy)
+    	    textBox5.Text = Dictionary.Getcybx(Cy)
+    	    textBox6.Text = Dictionary.Getcysy(Cy)
     	End Sub
 	End Class
