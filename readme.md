@@ -1,7 +1,10 @@
 以下Api均为网络上的公益项目，在此为方便小白操作进行打包，直接用“对象.方法”即可调用，无需WebRequest
 
 nuget地址：[](https://www.nuget.org/profiles/Qibowen2008)
-主要Api源头：https://api.aa1.cn,https://api.axtn.net/zh_cn
+
+主要Api源头：https://api.aa1.cn  
+
+https://api.axtn.net/zh_cn
 
 
 
