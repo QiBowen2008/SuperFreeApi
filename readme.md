@@ -235,7 +235,7 @@ VB.NET代码
 ## 使用示范
 界面效果
 
--   ![TEST.PNG](https://raw.githubusercontent.com/QiBowen2008/SuperFreeApi/main/SensitiveWordetection/TEST.PNG)
+  ![TEST.PNG](https://raw.githubusercontent.com/QiBowen2008/SuperFreeApi/main/SensitiveWordetection/TEST.PNG)
 
 C#代码
 
